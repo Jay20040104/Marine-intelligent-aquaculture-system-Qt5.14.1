@@ -11,3 +11,5 @@
 5. 视频监控模块：基于V4L2驱动开发摄像头控制功能，支持设备启停、实时视频流显示、一键抓拍及图片自动存储。
 6. 网络通信模块：实现TCP服务器/客户端双模式，支持指定端口监听、客户端连接及双向数据收发，为系统远程监控与管理提供灵活通信能力； 
 7. 商品交易模块：设计水产品表格化展示、购物车增删、实时总价计算及订单结算功能，搭建便捷电子交易平台，简化养殖产品购销流程。
+<img width="802" height="512" alt="image" src="https://github.com/user-attachments/assets/9eb808ed-e75b-4231-9a34-784436dc7734" />
+<img width="802" height="512" alt="image" src="https://github.com/user-attachments/assets/f6f7aee6-d4bb-48af-bfcb-77d4eae53037" />
