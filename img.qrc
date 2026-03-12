@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/twitter.png</file>
+        <file>img/bilibili.png</file>
+        <file>img/phone.png</file>
+        <file>img/text.png</file>
+        <file>img/browser.png</file>
+        <file>img/record.png</file>
+        <file>img/rili.png</file>
+        <file>img/tongxunlu.png</file>
+        <file>img/wechat.png</file>
+        <file>resource/img/QQ.png</file>
+        <file>resource/img/github.png</file>
+    </qresource>
+</RCC>
